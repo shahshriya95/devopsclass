@@ -1,0 +1,17 @@
+1. hii, this is to check wether the git checkout -b command works to create a branch
+
+2. wohhoooo this worked
+
+3. just needed to to understand properly
+
+4. create a folder under cloned repo
+
+5. then create a branch using git checkout -b xyz branch name
+
+6. then use commandgit push origin xyz branch name
+
+7. as we have given sshkey access and protection it will not ask for any username and password authentication
+
+8. creating a pull request on github will show the newly created branch on github
+
+

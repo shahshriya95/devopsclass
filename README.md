@@ -1,2 +1,15 @@
 # devopsclass
 devops lessons learned and practiced
+1. created github repo
+
+2. checked git installed on linux
+
+3. ssh-keygen
+
+4. github settings ssh and gpg key
+
+5. cloned repo on linux with ssh key
+
+6. then opened cloned folder in it edited readme file
+
+7. then git add git push 
